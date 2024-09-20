@@ -1,0 +1,48 @@
+body{
+	width: 90%;
+	margin: 0 auto;
+	background-color: rgb(229, 255, 222);
+	font-family: courier;
+}
+
+#header img {
+            display: block;
+            margin: 0 auto;
+        }
+
+        /* Adjusted sizes for the logo and banner */
+        #logo {
+            width: 80px; /* Adjust the size of the logo */
+            height: auto;
+        }
+
+        #banner {
+            width: 60%; /* Adjust the width of the banner */
+            height: auto;
+        }
+
+#Liftingcontent{overflow: auto;}
+
+
+.Liftingoverview{
+	width: 90%;
+	float: left;
+	margin: 1%;	
+}
+
+.Liftingpersonalized{
+	width: 50%;
+	float: left;
+	margin: 1%;	
+}
+
+.Liftinggroup{
+	width: 90%;
+	float: clear;
+	margin: 1%;	
+}
+
+.Liftingreviews{
+	width: 90%;
+	margin: 1%;	
+}
